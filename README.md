@@ -9,6 +9,7 @@ Dates: June 5, 2023 to June 9, 2023
 ### Monday, June 5, 2023
 
 - [Keynote](keynote-2023.md)
+- [Platform State of the Union](platform-state-of-the-union-2023.md)
 
 ### Tuesday, June 6, 2023
 
@@ -21,8 +22,6 @@ Dates: June 5, 2023 to June 9, 2023
 ## Sessions to attend:
 
 ### Monday, June 5, 2023
-
-- Platform State of the Union
 
 ### Tuesday, June 6, 2023
 
