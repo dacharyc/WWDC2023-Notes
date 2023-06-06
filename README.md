@@ -58,14 +58,63 @@ Dates: June 5, 2023 to June 9, 2023
 - Write Swift macros
 
 ### Wednesday, June 7, 2023
+
 - Beyond scroll views
 - Build accessible apps with SwiftUI & UIKit
 - **Build an app with SwiftData**
 - Build programmatic UI with Xcode Previews
+- Create animated symbols
+- Create immersive Unity apps
+- Design with SwiftUI
+- Discover Continuity Camera for tvOS
+- Enhance your spatial computing app with RealityKit
+- Evolve your ARKit app for spatial experiences
+- Explore 3D body pose and person segmentation in Vision
+- Explore immersive sound design
+- Explore materials in Reality Composer Pro
+- Explore Natural Language multilingual models
+- Explore SwiftUI animation
+- **Fix failures faster with Xcode test reports**
+- **Get started with privacy manifests**
+- **Inspectors in SwiftUI: Discover the details**
+- Meet Object Capture for iOS
+- Meet RealityKit Trace
+- **Mix Swift and C++**
+- **Model your schema with SwiftData**
+- Optimize app power and performance for spatial computing
+- Simplify distribution in Xcode and Xcode Cloud
+- Take SwiftUI to the next dimension
+- Verify app dependencies with digital signatures
+- What's new in App Store Connect
+- What's new in privacy
+- Work with Reality Composer Pro content in Xcode
 
 ### Thursday, June 8, 2023
 
+- Animate symbols in your app
+- Beyond the basics of structured concurrency
+- Build spatial SharePlay experiences
+- Create practical workflows in Xcode Cloud
+- Demystify SwiftUI performance
+- Explore pie charts and interactivity in Swift Charts
+- Extend Speech Synthesis with personal and custom voices
+- Go beyond the window with SwiftUI
+- **Migrate to SwiftData**
+- Prototype with Xcode Playgrounds
+- **What's new in Background Assets**
+- What's new in Core Data
+
 ### Friday, June 9, 2023
+
+- Animate with springs
+- Design considerations for vision and motion
+- Dive deeper into **SwiftData**
+- Elevate your windowed app for spatial computing
+- Embed the Photos Picker in your app
+- Explore testing in-app purchases
+- Explore the USD ecosystem
+- Share files with SharePlay
+- **The SwiftUI cookbook for focus**
 
 ## Resources
 
