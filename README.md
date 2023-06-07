@@ -13,13 +13,29 @@ Dates: June 5, 2023 to June 9, 2023
 
 ### Tuesday, June 6, 2023
 
+#### Sessions
+
 - [Meet Swift Data](meet-swift-data.md)
 - [Discover Observation in SwiftUI](discover-observation-swiftui.md)
+- What's new in Xcode 15
+
+#### Live Activities
+
+- Immersive icebreaker
+- [SwfitData Q&A](swiftdata-q-and-a.md)
 
 ### Wednesday, June 7, 2023
 
+#### Sessions
+
 - [Build an app with SwiftData](build-app-with-swift-data.md)
 - [Sync to iCloud with CKSyncEngine](sync-icloud-cksyncengine.md)
+- [Model your schema with SwiftData](model-schema-swiftdata.md)
+
+#### Live Activities
+
+- [CoreData Q&A](coredata-q-and-a.md)
+- [CloudKit Q&A](cloudkit-q-and-a.md)
 
 ### Thursday, June 8, 2023
 
@@ -56,7 +72,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Sync to iCloud with CKSyncEngine
 - **What's new in SwiftUI**
 - What's new in VisionKit
-- **What's new in Xcode 15**
 - **What's new in Swift**
 - Wind your way through advanced animations in SwiftUI
 - Write Swift macros
@@ -83,7 +98,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Meet Object Capture for iOS
 - Meet RealityKit Trace
 - **Mix Swift and C++**
-- **Model your schema with SwiftData**
 - Optimize app power and performance for spatial computing
 - Simplify distribution in Xcode and Xcode Cloud
 - Take SwiftUI to the next dimension
