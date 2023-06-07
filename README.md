@@ -13,7 +13,13 @@ Dates: June 5, 2023 to June 9, 2023
 
 ### Tuesday, June 6, 2023
 
+- [Meet Swift Data](meet-swift-data.md)
+- [Discover Observation in SwiftUI](discover-observation-swiftui.md)
+
 ### Wednesday, June 7, 2023
+
+- [Build an app with SwiftData](build-app-with-swift-data.md)
+- [Sync to iCloud with CKSyncEngine](sync-icloud-cksyncengine.md)
 
 ### Thursday, June 8, 2023
 
@@ -33,7 +39,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Design spatial SharePlay experiences
 - Detect animal poses in Vision
 - Develop your first immersive app
-- **Discover Observation in SwiftUI**
 - Enhance your iPad and iPhone apps for the Shared Space
 - **Expand on Swift macros**
 - Explore App Store Connect for spatial computing
@@ -44,7 +49,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Meet Reality Composer Pro
 - Meet Safari for spatial computing
 - Meet StoreKit for SwiftUI
-- **Meet SwiftData**
 - Meet SwitUI for spatial computing
 - Perform accessibility audits for your app
 - Principles of spatial design
@@ -61,7 +65,6 @@ Dates: June 5, 2023 to June 9, 2023
 
 - Beyond scroll views
 - Build accessible apps with SwiftUI & UIKit
-- **Build an app with SwiftData**
 - Build programmatic UI with Xcode Previews
 - Create animated symbols
 - Create immersive Unity apps
@@ -108,7 +111,7 @@ Dates: June 5, 2023 to June 9, 2023
 
 - Animate with springs
 - Design considerations for vision and motion
-- Dive deeper into **SwiftData**
+- **Dive deeper into SwiftData**
 - Elevate your windowed app for spatial computing
 - Embed the Photos Picker in your app
 - Explore testing in-app purchases
@@ -117,6 +120,16 @@ Dates: June 5, 2023 to June 9, 2023
 - **The SwiftUI cookbook for focus**
 
 ## Resources
+
+### Apple Documentation
+
+- [WWDC 2023 Highlights](https://developer.apple.com/documentation/updates/wwdc2023)
+- [Prepare for visionOS](https://developer.apple.com/visionos/prepare/)
+- [SwiftData](https://developer.apple.com/documentation/SwiftData)
+
+### Swift Documentation
+
+- [Mixing Swift and C++](https://www.swift.org/documentation/cxx-interop/)
 
 ### Other Notes
 
