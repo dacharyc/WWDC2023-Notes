@@ -18,6 +18,7 @@ Dates: June 5, 2023 to June 9, 2023
 - [Meet Swift Data](meet-swift-data.md)
 - [Discover Observation in SwiftUI](discover-observation-swiftui.md)
 - What's new in Xcode 15
+- [What's new in SwiftUI](whats-new-swiftui.md)
 
 #### Live Activities
 
@@ -38,6 +39,8 @@ Dates: June 5, 2023 to June 9, 2023
 - [CloudKit Q&A](cloudkit-q-and-a.md)
 
 ### Thursday, June 8, 2023
+
+- [SwiftUI Q&A](swiftui-q-and-a.md)
 
 ### Friday, June 9, 2023
 
