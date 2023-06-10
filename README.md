@@ -19,6 +19,8 @@ Dates: June 5, 2023 to June 9, 2023
 - [Discover Observation in SwiftUI](discover-observation-swiftui.md)
 - What's new in Xcode 15
 - [What's new in SwiftUI](whats-new-swiftui.md)
+- Expand on Swift macros
+- What's new in Swift
 
 #### Live Activities
 
@@ -32,6 +34,7 @@ Dates: June 5, 2023 to June 9, 2023
 - [Build an app with SwiftData](build-app-with-swift-data.md)
 - [Sync to iCloud with CKSyncEngine](sync-icloud-cksyncengine.md)
 - [Model your schema with SwiftData](model-schema-swiftdata.md)
+- Get started with privacy manifests
 
 #### Live Activities
 
@@ -40,9 +43,24 @@ Dates: June 5, 2023 to June 9, 2023
 
 ### Thursday, June 8, 2023
 
+#### Sessions
+
+- Migrate to SwiftData
+
+#### Live Activities
+
 - [SwiftUI Q&A](swiftui-q-and-a.md)
 
 ### Friday, June 9, 2023
+
+#### Sessions
+
+- Dive deeper into SwiftData
+- The SwiftUI cookbook for focus
+
+#### Live Activities
+
+- [SwfitData Q&A](swiftdata-q-and-a.md)
 
 ## Sessions to attend:
 
@@ -59,7 +77,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Detect animal poses in Vision
 - Develop your first immersive app
 - Enhance your iPad and iPhone apps for the Shared Space
-- **Expand on Swift macros**
 - Explore App Store Connect for spatial computing
 - **Generalize APIs with parameter packs**
 - Get started with building apps for spatial computing
@@ -73,9 +90,7 @@ Dates: June 5, 2023 to June 9, 2023
 - Principles of spatial design
 - Run your iPad and iPhone apps in the Shared Space
 - Sync to iCloud with CKSyncEngine
-- **What's new in SwiftUI**
 - What's new in VisionKit
-- **What's new in Swift**
 - Wind your way through advanced animations in SwiftUI
 - Write Swift macros
 
@@ -96,7 +111,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Explore Natural Language multilingual models
 - Explore SwiftUI animation
 - **Fix failures faster with Xcode test reports**
-- **Get started with privacy manifests**
 - **Inspectors in SwiftUI: Discover the details**
 - Meet Object Capture for iOS
 - Meet RealityKit Trace
@@ -111,7 +125,8 @@ Dates: June 5, 2023 to June 9, 2023
 
 ### Thursday, June 8, 2023
 
-- Animate symbols in your app
+- Analyze hangs with Instruments
+- **Animate symbols in your app**
 - Beyond the basics of structured concurrency
 - Build spatial SharePlay experiences
 - Create practical workflows in Xcode Cloud
@@ -119,7 +134,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Explore pie charts and interactivity in Swift Charts
 - Extend Speech Synthesis with personal and custom voices
 - Go beyond the window with SwiftUI
-- **Migrate to SwiftData**
 - Prototype with Xcode Playgrounds
 - **What's new in Background Assets**
 - What's new in Core Data
@@ -128,13 +142,11 @@ Dates: June 5, 2023 to June 9, 2023
 
 - Animate with springs
 - Design considerations for vision and motion
-- **Dive deeper into SwiftData**
 - Elevate your windowed app for spatial computing
 - Embed the Photos Picker in your app
 - Explore testing in-app purchases
 - Explore the USD ecosystem
 - Share files with SharePlay
-- **The SwiftUI cookbook for focus**
 
 ## Resources
 
@@ -143,6 +155,8 @@ Dates: June 5, 2023 to June 9, 2023
 - [WWDC 2023 Highlights](https://developer.apple.com/documentation/updates/wwdc2023)
 - [Prepare for visionOS](https://developer.apple.com/visionos/prepare/)
 - [SwiftData](https://developer.apple.com/documentation/SwiftData)
+- [App Store Guidelines: App privacy details on the App Store](https://developer.apple.com/app-store/app-privacy-details/)
+- [App Store Guidelines: User Privacy and Data Use](https://developer.apple.com/app-store/user-privacy-and-data-use/)
 
 ### Swift Documentation
 
