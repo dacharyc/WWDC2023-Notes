@@ -21,6 +21,8 @@ Dates: June 5, 2023 to June 9, 2023
 - [What's new in SwiftUI](whats-new-swiftui.md)
 - Expand on Swift macros
 - What's new in Swift
+- Design for spatial input
+- Get started with building apps for spatial computing
 
 #### Live Activities
 
@@ -71,7 +73,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Create accessible spatial experiences
 - Create rich documentation with Swift-DocC
 - Debug with structured logging
-- Design for spatial input
 - Design for spatial user interfaces
 - Design spatial SharePlay experiences
 - Detect animal poses in Vision
@@ -79,7 +80,6 @@ Dates: June 5, 2023 to June 9, 2023
 - Enhance your iPad and iPhone apps for the Shared Space
 - Explore App Store Connect for spatial computing
 - **Generalize APIs with parameter packs**
-- Get started with building apps for spatial computing
 - Meet ActivityKit
 - Meet ARKit for spatial computing
 - Meet Reality Composer Pro
